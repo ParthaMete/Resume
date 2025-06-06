@@ -1,1 +1,2 @@
-# Resume  my resume - https://github.com/ParthaMete/Resume/blob/main/CV_RKMVERI_PM.pdf
+# Resume  my resume - https://raw.githubusercontent.com/ParthaMete/Resume/main/CV_RKMVERI_PM.pdf
+
